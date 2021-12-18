@@ -1,1 +1,1 @@
-web: sh setup.sh && streamlit run model_garbage.py
+web: sh setup.sh && streamlit run salinan_capstone.py
